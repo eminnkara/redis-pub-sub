@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisPubSub.Publisher", "RedisPubSub.Publisher\RedisPubSub.Publisher.csproj", "{7DFF2788-4732-4FF7-A962-DC7BF822D80B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisPubSub.Subscriber", "RedisPubSub.Subscriber\RedisPubSub.Subscriber.csproj", "{6B156F43-2DC0-484D-A973-1DFA86FA00B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisPubSub.SubscriberFoo", "RedisPubSub.SubscriberFoo\RedisPubSub.SubscriberFoo.csproj", "{CC7141D4-CFDE-4611-9B6E-1F24BB5F8D7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisPubSub.SubscriberBar", "RedisPubSub.SubscriberBar\RedisPubSub.SubscriberBar.csproj", "{606D1A82-DB24-4B2A-A1B7-BEEA06A64E83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DFF2788-4732-4FF7-A962-DC7BF822D80B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DFF2788-4732-4FF7-A962-DC7BF822D80B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DFF2788-4732-4FF7-A962-DC7BF822D80B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DFF2788-4732-4FF7-A962-DC7BF822D80B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B156F43-2DC0-484D-A973-1DFA86FA00B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B156F43-2DC0-484D-A973-1DFA86FA00B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B156F43-2DC0-484D-A973-1DFA86FA00B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B156F43-2DC0-484D-A973-1DFA86FA00B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC7141D4-CFDE-4611-9B6E-1F24BB5F8D7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC7141D4-CFDE-4611-9B6E-1F24BB5F8D7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC7141D4-CFDE-4611-9B6E-1F24BB5F8D7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC7141D4-CFDE-4611-9B6E-1F24BB5F8D7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{606D1A82-DB24-4B2A-A1B7-BEEA06A64E83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{606D1A82-DB24-4B2A-A1B7-BEEA06A64E83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{606D1A82-DB24-4B2A-A1B7-BEEA06A64E83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{606D1A82-DB24-4B2A-A1B7-BEEA06A64E83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
